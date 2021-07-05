@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg10652"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10654"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.3884119"
+     inkscape:cx="539.37586"
+     inkscape:cy="680.97811"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1-0"
+     width="100mm" />
+  <defs
+     id="defs10649" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-0"
+       transform="translate(42.534711,23.660121)">
+      <circle
+         style="fill:#00d400;stroke-width:0.324729"
+         id="path10324"
+         cx="35.522446"
+         cy="50.716347"
+         r="19.48377" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.5625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="107.41557"
+         y="64.091576"
+         id="text3293"><tspan
+           sodipodi:role="line"
+           id="tspan3291"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.5625px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+           x="107.41557"
+           y="64.091576" /></text>
+      <ellipse
+         style="fill:#00d400;stroke-width:0.439599"
+         id="path10196"
+         cx="6.0594358"
+         cy="23.526966"
+         rx="41.876137"
+         ry="41.593193" />
+      <circle
+         id="path7837"
+         cx="5.8832197"
+         cy="24.245485"
+         style="fill:#ffffff;stroke-width:0.308056"
+         r="29.964815" />
+      <ellipse
+         style="fill:#ff7f2a;stroke-width:0.324729"
+         id="path10452"
+         cx="-11.296029"
+         cy="23.753922"
+         rx="5.225276"
+         ry="5.4342866" />
+      <ellipse
+         style="fill:#ff7f2a;stroke-width:0.324729"
+         id="path10452-6"
+         cx="6.0518832"
+         cy="23.335899"
+         rx="5.225276"
+         ry="5.4342866" />
+      <ellipse
+         style="fill:#ff7f2a;stroke-width:0.324729"
+         id="path10452-2"
+         cx="21.936722"
+         cy="23.335899"
+         rx="5.225276"
+         ry="5.4342866" />
+    </g>
+  </g>
+</svg>

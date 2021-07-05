@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="350"
+   viewBox="0 0 264.58333 92.604164"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="banner-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title11">Kaiso Logo</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.77682379"
+     inkscape:cx="694.49469"
+     inkscape:cy="146.10778"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#00d400;stroke-width:0.264583"
+       id="path10324"
+       cx="71.354935"
+       cy="67.948967"
+       r="15.875" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.5625px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="107.41557"
+       y="64.091576"
+       id="text3293"><tspan
+         sodipodi:role="line"
+         id="tspan3291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.5625px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="107.41557"
+         y="64.091576">Kaiso</tspan></text>
+    <ellipse
+       style="fill:#00d400;stroke-width:0.358177"
+       id="path10196"
+       cx="47.349041"
+       cy="45.795586"
+       rx="34.119873"
+       ry="33.889336" />
+    <circle
+       id="path7837"
+       cx="47.205463"
+       cy="46.38102"
+       style="fill:#ffffff;stroke-width:0.250998"
+       r="24.414755" />
+    <ellipse
+       style="fill:#ff7f2a;stroke-width:0.264583"
+       id="path10452"
+       cx="33.208141"
+       cy="45.980503"
+       rx="4.2574544"
+       ry="4.427752" />
+    <ellipse
+       style="fill:#ff7f2a;stroke-width:0.264583"
+       id="path10452-6"
+       cx="47.342888"
+       cy="45.639908"
+       rx="4.2574544"
+       ry="4.427752" />
+    <ellipse
+       style="fill:#ff7f2a;stroke-width:0.264583"
+       id="path10452-2"
+       cx="60.285549"
+       cy="45.639908"
+       rx="4.2574544"
+       ry="4.427752" />
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Kaiso Logo</dc:title>
+        <dc:date>5th July 2021</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Oliver Swindles</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>English</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
